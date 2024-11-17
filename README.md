@@ -44,7 +44,7 @@ NumPy: For numerical computations.
 Matplotlib: For data visualization.
 Scikit-learn: For machine learning models and utilities.
 and other mentioned libraries.
-## esults
+## Results
 Evaluation metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE) and R² Score were used to assess model performance.
 Grid Search helped identify the best hyperparameters, improving prediction accuracy.
 
