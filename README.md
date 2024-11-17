@@ -36,14 +36,15 @@ Data Visualization: Insights on feature correlations and distributions using Mat
 3. Model Development
 Model Selection: Implementing regression models to predict exam scores.
 Hyperparameter Tuning: Using Grid Search for optimized model performance.
+
 ## Tools and Libraries
 The project uses the following Python libraries:
-
 Pandas: For data manipulation and analysis.
 NumPy: For numerical computations.
 Matplotlib: For data visualization.
 Scikit-learn: For machine learning models and utilities.
 and other mentioned libraries.
+
 ## Results
 Evaluation metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE) and R² Score were used to assess model performance.
 Grid Search helped identify the best hyperparameters, improving prediction accuracy.
